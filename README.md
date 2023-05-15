@@ -1,3 +1,3 @@
 # senai-gadelha
 oi
-lembrei do comando: git status
+lembrei do comando: git statuss
